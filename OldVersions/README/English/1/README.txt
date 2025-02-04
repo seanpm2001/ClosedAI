@@ -1,295 +1,104 @@
 
 ***
 
-# <projectName>
+<img src="/Graphics/ClosedAI/Logo/PNG/ClosedAI_2048pxLogo_V1_HighCompression.png" alt="ClosedAI logo failed to load. Click/tap here to attempt to view it" width="400" height="400" title="ClosedAI logo">
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+# ClosedAI
 
-# By:
+This is a project regarding OpenAI, which should be referred to as ClosedAI, as their software is no longer open source, it is closed source. Please instead use free, libre, and open source Artificial Intelligence software, and boycott ClosedAI.
 
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
+I have been against the name of OpenAI all the way back to 2023, Saturday, June 3rd [:octocat: when I wrote this:](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Other-AI/OpenAI/ClosedAI/)
 
-### Top
+```
+OpenAI has a misleading name now. Since the release of GPT-4, all current software by OpenAI is no longer open, it is closed (closed source) thus I feel OpenAI should rename to ClosedAI, until they can make everything open source again (if they ever do)
 
-# `README.md`
+Having closed source Artificial Intelligence is extremely dangerous and unethical, and is a double standard when they complain about the dangers of Artificial Intelligence, since hiding what you are doing is only making the problem worse.
+```
 
-***
-
-## Read this article in a different language
-
-[ar عربى](README_AR.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [fr français](README_FR.md) [de Deutsch](README_DE.md) [EO Esperanto](README_EO.md)  [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md)
-
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/seanpm2001/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+I originally created my [:octocat: `AI2001 project`](https://github.com/seanpm2001/AI2001/) partly due to there being a major lack of open source "Artificial Intelligence" software at the time (I also wanted to have my own AI project) My stance on what "Artificial Intelligence" is, and its impact has changed significantly since starting this project, but as of 2025, February 3rd, I have not found the time to reflect on this on the home AI2001 repository.
 
 ***
 
-# Index
+## It's closed
 
-[00.0 - Top](#Top)
+Closed source software is untrustworthy, and its actions cannot be verified effectively. A closed source Artificial Intelligence is especially dangerous. We need open source Artificial Intelligence, not closed source.
 
-> [00.1 - Title](#<projectName>)
+Yes, there are repositories on GitHub with source code, but this does not include the actual source code of what is used by ClosedAI, especially since the release of GPT-4, which was made closed source upon release. These are merely community projects, similar to how companies like Facebook have lots of open source repositories, but the core of Facebook is still closed source and hidden.
 
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
+---
 
-> [00.3 - Index](#Index)
+## Dehumanization
 
-[01.0 - Description](#RepositoryName)
+Comments from the leadership of ClosedAI have made the same mistakes that the general public in Germany made prior to the Nazi takeover, except, they are dehumanizing Muslims instead of Jews. Dehumanization is not okay. ClosedAI was hacked (DDoS'd) by Anonymous Sudan (a Russian hacking group) over this issue in 2024, knocking out service for a while. 
 
-[02.0 - About](#About)
+---
 
-[03.0 - Wiki](#Wiki)
+## Military usage
 
-[04.0 - Version history](#Version-history)
+ClosedAI has special deals with the government of Israel, where their software is used to indiscriminately choose places to bomb in Palestine, mostly including houses, schools, hospitals, and places of worship. This is a war crime.
 
-[05.0 - Software status](#Software-status)
+ClosedAI originally had a no military use clause in their terms of service, but they quietly modified it, then removed it.
 
-[06.0 - Sponsor info](#Sponsor-info)
+See also: Project Nimbus, a similar military campaign, but between Google, Amazon, and Israel.
 
-[07.0 - Contributers](#Contributers)
+---
 
-[08.0 - Issues](#Issues)
+## AI takeover
 
-> [08.1 - Current issues](#Current-issues)
+If you are worried about AI taking over and killing humanity, you should avoid ClosedAI, due to their history of dehumanizing people, and supporting militaries directly. Once Artificial Intelligence/Artificial General Intelligence is actually reached, CLosedAI will likely try to create something like SkyNet. ClosedAI is saying things not very far from "kill all humans"
 
-> [08.2 - Past issues](#Past-issues)
+---
 
-> [08.3 - Past pull requests](#Past-pull-requests)
+## See also
 
-> [08.4 - Active pull requests](#Active-pull-requests)
-
-[09.0 - Resources](#Resources)
-
-[10.0 - Contributing](#Contributing)
-
-[11.0 - About README](#About-README)
-
-[12.0 - README Version history](#README-version-history)
-
-[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
-
-> [13.1 - End of file](#EOF)
+- [GNU: Words to avoid/use with caution: AI/Artificial Intelligence](https://www.gnu.org/philosophy/words-to-avoid.html#ArtificialIntelligence)
+- [GNU: Why call it the swindle](https://www.gnu.org/philosophy/why-call-it-the-swindle.en.html)
 
 ***
 
-# <repoName>
-<repo_description>
+## Meta
+
+[`View the REPOLIST file for this project`](/ClosedAI_REPOLIST.urll)
 
 ***
 
-## About
+## ClosedAI projects
 
-See above. <extendedRepoDescription>
+| <img src="/Graphics/ClosedAI/Banner/ClosedAI_1080pWallpaper_V1_HighCompression.png" alt="ClosedAI banner failed to load. Click/tap here to attempt to view it" width="768" height="432" title="ClosedAI banner/wallpaper"> |
+|---|
 
-***
+> **Note** _This list is in A-Z order, and it is highly incomplete._
 
-## Wiki
-
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
-
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
-
-***
-
-## Sponsor info
-
-![SponsorButton.png](SponsorButton.png)
-
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
-
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
-
-Try it out! The sponsor button is right up next to the watch/unwatch button.
+- ChatGPT
+- - GPT1
+- - GPT2
+- - GPT3
+- - GPT4
+- DALL-E
+- - DALL-E 1
+- - DALL-E 2
+- - DALL-E 3
+- OpenAI Gym
+- More to be listed
 
 ***
 
-## Version history
+## TODO
 
-**Version history currently unavailable**
-
-**No other versions listed**
-
-***
-
-## Software status
-
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
-
-![DRM-free_label.en.svg](DRM-free_label.en.svg)
-
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
-
-I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
-
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
+- [ ] Add more sources
+- [ ] Modernize this README file
+- - [ ] Modernize `File info` section
+- - [ ] Add `file history section` section
+- - [ ] Add `footer section` section
+- - [ ] Add `table of contents` section
+- - [ ] Add `language switcher` section
+- - [ ] Add `this repository` section
 
 ***
 
-## Contributers
+# File info
 
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
-
-> * 2. No other contributers.
-
-***
-
-## Issues
-
-### Current issues
-
-* None at the moment
-
-* No other current issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past issues
-
-* None at the moment
-
-* No other past issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past pull requests
-
-* None at the moment
-
-* No other past pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Active pull requests
-
-* None at the moment
-
-* No other active pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-***
-
-## Resources
-
-Here are some other resources for this project:
-
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
-
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
-
-No other resources at the moment.
-
-***
-
-## Contributing
-
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
-
-[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
-
-***
-
-## About README
-
-File type: `Markdown (*.md)`
-
-File version: `0.1 (Sunday, March 21st 2021 at 7:50 pm)`
-
-Line count: `0,296`
-
-***
-
-## README version history
-
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
-
-> Changes:
-
-> * Started the file
-
-> * Added the title section
-
-> * Added the index
-
-> * Added the about section
-
-> * Added the Wiki section
-
-> * Added the version history section
-
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
-
-> * Added the contributing section
-
-> * Added the about README section
-
-> * Added the README version history section
-
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 1
-
-Version 2 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 2
-
-***
-
-### You have reached the end of the README file
-
-[Back to top](#Top) [Exit](https://github.com)
-
-### EOF
+- **File version:** `3 (2025, Monday, February 3rd at 04:53 pm PST)`
+- **Line count (including blank lines and compiler line):** `105`
 
 ***
